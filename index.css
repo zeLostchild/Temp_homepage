@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+  background-image: url("images/star_bg.gif");
+  background-size: 200px;
+  background-repeat: repeat;
+}
+p{
+  color:red;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hold{
+  position: fixed;
+  width:100%;
+}
+.spacer{
+  height:1500px;
+
+}
